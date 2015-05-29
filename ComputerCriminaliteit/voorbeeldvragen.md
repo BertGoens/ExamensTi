@@ -29,7 +29,6 @@ _De wet inzake informaticacriminaliteit werd ingevoerd._
 - _Specifieke ICT criminaliteit_
 
     - _Strafbare gedragingen die het ICT systeem of de opgeslagen data of_
-
     - _programmatuur als voorwerp hebben._
 
 
@@ -50,7 +49,7 @@ _De wet inzake informaticacriminaliteit werd ingevoerd._
 **Waarom / waardoor is computercriminaliteit een probleem voor justitie en politie?**
 
 
-_voor het oplossen van misdrijven (o.m. identificatie van de daders) _
+_voor het oplossen van misdrijven (o.m. identificatie van de daders)_
 
 - _moet bewijsmateriaal opgespoord worden_
 
@@ -68,7 +67,7 @@ _nieuwe criminaliteitsvormen moeten effectief bestreden worden, met respect voor
 
 -        **Hoe kan dit probleem o.m. opgelost worden?**
 
-_De oplossing voor het geschetste probleem kan gevonden worden _
+_De oplossing voor het geschetste probleem kan gevonden worden_
 
 - _in een aangepast wettelijk kader met aangepaste wettelijke procedures_
 
@@ -106,7 +105,7 @@ _Objectiviteit, democratie, ze controleren & beperken elkaar._
 
 ---
 
--        **Hoe is België gestructureerd? **
+-        **Hoe is België gestructureerd?**
 
 _Federale staat, gewesten, gemeenschappen_
 
@@ -153,7 +152,7 @@ _Hof van Cassatie = spreekt zich uit over het recht, procedures, niet over een s
 
 **Wat is het "Openbaar Ministerie"?**
 
-_Het Openbaar Ministerie vertegenwoordigt de samenleving in de rechtbank. De magistraten die verbonden zijn aan een parket of aan een auditoraat vormen samen het Openbaar Ministerie. Zij vervolgen inbreuken op de strafwet . De voornaamste taken van het Openbaar Ministerie zijn:_
+_Het Openbaar Ministerie vertegenwoordigt de samenleving in de rechtbank. De magistraten die verbonden zijn aan een parket of aan een auditoraat vormen samen het Openbaar Ministerie. Zij vervolgen inbreuken op de strafwet. De voornaamste taken van het Openbaar Ministerie zijn:_
 
 - _het opsporen en vervolgen van misdrijven. De magistraten van het Openbaar Ministerie leiden het strafonderzoek, sporen de daders op en vorderen in de rechtbank een straf tegen de verdachten. Wanneer deze magistraten voor de rechtbanken een straf vragen, doen zij dit staand, daarom noemt men hen 'de staande magistratuur'. De rechters in de rechtbanken worden 'de zittende magistratuur' genoemd._
 
@@ -195,7 +194,8 @@ _Hoofdstraffen worden afzonderlijk opgelegd, bijkomende straffen worden samen me
 
 ---
 
--        **Wat zijn de constitutieve bestanddelen van een misdrijf? **
+-        **Wat zijn de constitutieve bestanddelen van een misdrijf?**
+
 _materieel bestanddeel & moreel bestanddeel_
 
 ---
@@ -220,15 +220,15 @@ _Gebeurlijk opzet = de gevolgen zijn bekend, maar de dader had deze niet tot doe
 
 -        **Wat is volgens het Strafwetboek:**
 
-o   **een misdaad**
+-        **een misdaad**
 
 _criminele straffen_
 
-o   **een wanbedrijf**
+-        **een wanbedrijf**
 
 _correctionele straffen_
 
-o   **een overtreding?**
+-        **een overtreding?**
 
 _Politiestraffen_
 
@@ -250,7 +250,8 @@ _Schuld = de gevolgen van de gepleegde daad zijn niet gewild_
 
 ---
 
--        **Wat is poging tot misdaad of wanbedrijf? **
+-        **Wat is poging tot misdaad of wanbedrijf?**
+
 _voorbereiding alleen onvoldoende, moet de wil tonen, afwezigheid van vrijwillige verzaking_
 
 ---
@@ -268,7 +269,7 @@ _Klacht / aangifte, vooronderzoek / opsporingsonderzoek, onderzoek ten gronde (r
 
 ---
 
--        **Wat zijn tijdens een strafproces het opsporingsonderzoek en het gerechtelijk onderzoek? Wat zijn de verschillen? **
+-        **Wat zijn tijdens een strafproces het opsporingsonderzoek en het gerechtelijk onderzoek? Wat zijn de verschillen?**
 
 _Opsporingsonderzoek = gesloten vooronderzoek, onder leiding van procureur, zonder dat er dwangmaatregel nodig zijn_
 
@@ -278,7 +279,7 @@ _Gerechtelijk onderzoek = onder leiding van de onderzoeksrechter, dwangmaatregel
 
 -        **Welke voorwerpen kunnen tijdens een strafrechtelijk vooronderzoek worden in beslag genomen?**
 
-_het voorwerp van het misdrijf, __alles wat gediend heeft (of had moeten dienen) voor het plegen van het misdrijf (bv. Een computer, een wapen), zaken die uit het misdrijf voorkomen (bv. Vals geld), primaire en secundaire vermogensvoordelen_
+_het voorwerp van het misdrijf, alles wat gediend heeft (of had moeten dienen) voor het plegen van het misdrijf (bv. Een computer, een wapen), zaken die uit het misdrijf voorkomen (bv. Vals geld), primaire en secundaire vermogensvoordelen_
 
 ---
 
@@ -294,7 +295,8 @@ _Het IP of e-mailadres van de fraudeur identificeren. De procureur moet dit vord
 
 ---
 
--        **Hoe kan een profiel op/van een sociale netwerksite in een strafrechtelijk vooronderzoek "geïdentificeerd" worden? Wie kan dit vragen? Op grond van welke wettelijke basis?   **
+-        **Hoe kan een profiel op/van een sociale netwerksite in een strafrechtelijk vooronderzoek "geïdentificeerd" worden? Wie kan dit vragen? Op grond van welke wettelijke basis?**
+
 _Het profiel kan geïdentificeerd worden door gegevens van de sociale netwerksite (elektronische communicatie dienst) dmv artikel 46bis. Dit dient gevraagd te worden door de procureur des konings of OR._
 
 ---
@@ -341,7 +343,7 @@ _In beslagname, verantwoordelijke op de hoogte stellen (88ter)_
 
 ---
 
--         **Op bevel van een onderzoeksrechter wordt er een zoeking uitgevoerd in een informaticasysteem van de hoofdzetel van het  bedrijf AZERTY in Brugge.  Tijdens die zoeking wordt vastgesteld dat er cruciale gegevens (= bewijs voor het strafrechtelijk vooronderzoek) aanwezig zijn op een informaticasysteem van de productieafdeling van  het bedrijf AZERTY te Sluis (Nederland).  Welke onderzoekshandelingen kan de onderzoeksrechter (laten) stellen? Onder welke voorwaarden?  **
+-         **Op bevel van een onderzoeksrechter wordt er een zoeking uitgevoerd in een informaticasysteem van de hoofdzetel van het  bedrijf AZERTY in Brugge.  Tijdens die zoeking wordt vastgesteld dat er cruciale gegevens (= bewijs voor het strafrechtelijk vooronderzoek) aanwezig zijn op een informaticasysteem van de productieafdeling van  het bedrijf AZERTY te Sluis (Nederland).  Welke onderzoekshandelingen kan de onderzoeksrechter (laten) stellen? Onder welke voorwaarden?**
 
 _Enkel kopieren, niet wissen of blokkeren, vreemde staat (Nederland) op de hoogte stellen. (88ter)_
 
@@ -353,7 +355,7 @@ _Ja, 88quarter, medewerkingsplicht_
 
 ---
 
--         **Tijdens een strafrechtelijk vooronderzoek worden in bestanden op een informaticasysteem gegevens aangetroffen die duidelijk een bewijs vormen in het onderzoek.  De bestanden kunnen evenwel niet gekopieerd worden. Welke juridisch-procedurele handelingen kunnen er gesteld worden? **
+-         **Tijdens een strafrechtelijk vooronderzoek worden in bestanden op een informaticasysteem gegevens aangetroffen die duidelijk een bewijs vormen in het onderzoek.  De bestanden kunnen evenwel niet gekopieerd worden. Welke juridisch-procedurele handelingen kunnen er gesteld worden?**
 
 _De toegang tot de gegevens blokkeren en zorgen dat ze niet gewijzigd kunnen worden 39bis._
 
@@ -371,7 +373,7 @@ _Ze worden in beslag genomen artikel 35._
 
 ---
 
--         **Tijdens een strafrechtelijk vooronderzoek worden op een server van een bedrijf in een 1000-tal bestanden aangetroffen die duidelijk kinderpornografie bevatten. Welke juridisch-procedurele handelingen kunnen er gesteld worden?  Op grond van welke wettelijke basis? **
+-         **Tijdens een strafrechtelijk vooronderzoek worden op een server van een bedrijf in een 1000-tal bestanden aangetroffen die duidelijk kinderpornografie bevatten. Welke juridisch-procedurele handelingen kunnen er gesteld worden?  Op grond van welke wettelijke basis?**
 
 _Gegevens worden gekopieerd & verwijdert, artikel 39bis_
 
@@ -463,9 +465,9 @@ _Interne hacking = je toegangsniveau overschrijden (je had al rechtmatige toegan
 
 **Nadien worden de gekopieerde kaartgegevens weggeschreven op een zogenaamde 'blanco'**
 
-**kaart.  Met die laatste kaart en de voorhanden PIN-code wordt dan de rekening van het**
+**kaart. Met die laatste kaart en de voorhanden PIN-code wordt dan de rekening van het**
 
-**slachtoffer gepluimd. **
+**slachtoffer gepluimd.**
 
 **Geef aan voor de volgende 3 stappen uit het verloop van dit misbruik, namelijk:**
 
