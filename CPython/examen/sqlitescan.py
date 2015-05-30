@@ -28,9 +28,12 @@ def get_interesting_rows(file, table):
 	con = sqlite.connect(file)
 	cur = con.cursor()
 	for keyword in keywords:
-		cur.execute('SELECT ' + keyword + ' FROM ' + table)
-		for row in cur.fetchone():
-			interesting_rows.append(keyword)
+		try:
+			cur.execute('SELECT ' + keyword + ' FROM ' + table)
+			for row in cur.fetchone():
+				interesting_rows.append(keyword)
+		except:
+			None
 	cur.close()
 	con.close()
 	

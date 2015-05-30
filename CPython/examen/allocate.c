@@ -12,7 +12,7 @@ int main(int argc, char* argv)
 
     for(int i = 0; 1; i++)
     {
-        if(i = 10) {
+        if(i == 10) {
             i = 0;
         }
         printf("Geef een aantal te alloceren bytes op de heap \n");
