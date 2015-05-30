@@ -333,6 +333,7 @@ Wanneer het voornemen om een misdaad of een wanbedrijf te plegen zich heeft geop
 Zijn in de wet vermeld, voor bijkomende elementen, het misdrijf wordt verzwaard erdoor en heeft een verhoogde straf tot gevolg.
 
 Voorbeelden van verzwarende omstandigheden door de wet bepaald:
+
 - Diefstal: inklimming, braak, gebruik van valse sleutels
 - Opzettelijke slagen en verwondingen: ziekte, werkongeschiktheid, overlijden van het slachtoffer
 - Zedenfeiten: de leeftijd van het slachtoffer, de hoedanigheid van de dader
@@ -360,6 +361,7 @@ Gevoerd voor de vonnisgerechten, in aanwezigheid van beklaagde, die nu het openb
 ####Wat zijn tijdens een strafproces het opsporingsonderzoek en het gerechtelijk onderzoek? Wat zijn de verschillen?
 
 **Opsporingsonderzoek**
+
 - Onder leiding van procureur
 - Zonder dat er dwangmaatregelen (zoals huiszoeking)
 Meer dan 90% van de zaken wordt op deze manier afgehandeld
