@@ -1,25 +1,27 @@
 ###Soorten bedreigingen
 - Menselijke
-– Fysische
-– Omgeving
+- Fysische
+- Omgeving
 
 ---
 
 ###Kwetsbaarheden
-– In hardware
-– In software
-– In procedures
-– In configuraties
-– In fysische beveiliging
+- In hardware
+- In software
+- In procedures
+- In configuraties
+- In fysische beveiliging
 
 ---
 
 ###CIA Triad
 - Confidentiality: hoe ervoor zorgen dat data niet kan ingekeken of gebruikt worden door derden?
-– Integrity: hoe ervoor zorgen dat data niet (onmerkbaar) gewijzigd wordt?
-– Availability: hoe ervoor zorgen dat de toegang tot een computersysteem/data verzekerd is én blijft?
+- Integrity: hoe ervoor zorgen dat data niet (onmerkbaar) gewijzigd wordt?
+- Availability: hoe ervoor zorgen dat de toegang tot een computersysteem/data verzekerd is én blijft?
 
-Andere beveiligingsaspecten:
+---
+
+###Andere beveiligingsaspecten:
 - Authentication: hoe kunnen we zeker zijn dat iemand die toegang zoekt tot een computersysteem/data, wel degelijk is, wie hij/zij beweert te zijn?
 - Access control; authorization: hoe ervoor zorgen dat de toegang tot een computersysteem of data beperkt wordt tot bevoegde personen en hoe bepalen welk soort toegang deze personen mogen hebben?
 - Non-repudation: hoe ervoor zorgen dat communicatiepartners niet kunnen ontkennen dat ze aan de communicatie deelgenomen hebben?
@@ -27,8 +29,8 @@ Andere beveiligingsaspecten:
 ---
 
 ###Methodes bij traditionele cryptografie
-– Substitutiemethodes: elk(e) (groep) teken(s) wordt vervangen door een ander(e) (groep) teken(s)
-– Transpositiemethodes: elk teken blijft behouden, maar krijgt een andere plaats in de tekenreeks
+- Substitutiemethodes: elk(e) (groep) teken(s) wordt vervangen door een ander(e) (groep) teken(s)
+- Transpositiemethodes: elk teken blijft behouden, maar krijgt een andere plaats in de tekenreeks
 
 ---
 
@@ -36,7 +38,7 @@ Andere beveiligingsaspecten:
 
 - Private key cryptografie
     - Maakt gebruik van één enkele sleutel om te coderen en te decoderen: _symmetrische cryptografie_
-	- Korte sleutels
+    - Korte sleutels
     - Voorbeelden: DES, 3DES, AES, in FEK
     - Belangrijkste nadeel: hoe veilig de private key distribueren?
 - Public key cryptografie
@@ -48,35 +50,35 @@ Andere beveiligingsaspecten:
 
 ###Eigenschappen van hashfuncties
 - Een willekeurig aantal inputbits wordt omgezet in een klein en vast aantal outputbits
-– Het is “nagenoeg onmogelijk” om uit de outputbitreeks (message digest of digital fingerprint) de originele inputbitreeks samen te stellen
-– Het is “nagenoeg onmogelijk” dat 2 verschillende inputbitreeksen resulteren in dezelfde outputbitreeksen (indien wel collision)
+- Het is “nagenoeg onmogelijk” om uit de outputbitreeks (message digest of digital fingerprint) de originele inputbitreeks samen te stellen
+- Het is “nagenoeg onmogelijk” dat 2 verschillende inputbitreeksen resulteren in dezelfde outputbitreeksen (indien wel collision)
 
 ---
 
 ###Een X.509 certificaat bevat o.a.:
-– Serienummer
-– Identiteit v/d CA
-– Identiteit v/d certificateneigenaar
-– Geldigheidsperiode
-– Public key v/d certificateneigenaar
-– Digitale handtekening v/d CA (geëncrypteerd mbv private key v/d CA)
+- Serienummer
+- Identiteit v/d CA
+- Identiteit v/d certificateneigenaar
+- Geldigheidsperiode
+- Public key v/d certificateneigenaar
+- Digitale handtekening v/d CA (geëncrypteerd mbv private key v/d CA)
 
 ---
 
 ###Hoe controleert je browser een SSL certificaat
-– Stemt het adres van de website overeen met het adres op het certificaat?
-– Klopt de digitale handtekening in het certificaat? Hiervoor gebruikt je browser de public key van de CA die het certificaat verleend heeft. Die public key zit in het certificaat van die CA. Je browser bevat standaard een lijst van tientallen CA’s die vertrouwd worden.
-– Is het certificaat nog geldig (expiracy date)?
-– Werd het certificaat niet ingetrokken? Deze controle gebeurt door de zgn CRL (Certificate Revocation List) bij de CA op te vragen (deze controle kan door je browser overgeslagen worden)
+- Stemt het adres van de website overeen met het adres op het certificaat?
+- Klopt de digitale handtekening in het certificaat? Hiervoor gebruikt je browser de public key van de CA die het certificaat verleend heeft. Die public key zit in het certificaat van die CA. Je browser bevat standaard een lijst van tientallen CA’s die vertrouwd worden.
+- Is het certificaat nog geldig (expiracy date)?
+- Werd het certificaat niet ingetrokken? Deze controle gebeurt door de zgn CRL (Certificate Revocation List) bij de CA op te vragen (deze controle kan door je browser overgeslagen worden)
 
 ---
 
 ###PKI-componenten: 
-– Een Certification Authority (CA): genereren, uitgeven, intrekken van certificaten
-– Een Registration Authority (RA):  registratie en vaststelling van de identiteit van de gebruikers
-– Een Validation Authority (VA): nagaan of certificaat niet ingetrokken werd
-– Directory: opslagplaats van certificaten en CRL’s (Certificate Revocation Lists = “zwarte lijsten”)
-– Eindentiteiten: aanvragen van certificaten en genereren van private en public keys
+- Een Certification Authority (CA): genereren, uitgeven, intrekken van certificaten
+- Een Registration Authority (RA):  registratie en vaststelling van de identiteit van de gebruikers
+- Een Validation Authority (VA): nagaan of certificaat niet ingetrokken werd
+- Directory: opslagplaats van certificaten en CRL’s (Certificate Revocation Lists = “zwarte lijsten”)
+- Eindentiteiten: aanvragen van certificaten en genereren van private en public keys
 
 ---
 
@@ -88,35 +90,35 @@ Andere beveiligingsaspecten:
 ---
 
 ###OTP wordt berekend op basis van
-– Een secret op de bankkaart: om deze uit de bankkaart te halen dien je een PIN-code in te voeren
-– De tijd (GMT) of een event counter (bv aantal keer dat je drukt op een knopje)
-– Een encryptie-algoritme (3DES of AES)
+- Een secret op de bankkaart: om deze uit de bankkaart te halen dien je een PIN-code in te voeren
+- De tijd (GMT) of een event counter (bv aantal keer dat je drukt op een knopje)
+- Een encryptie-algoritme (3DES of AES)
 
 ---
 
 ###IPSec protocollen
-– AH (Authentication Header): zorgt enkel voor authenticatie
-– ESP (Encapsulating Security Payload): zorgt voor authenticatie én encryptie
+- AH (Authentication Header): zorgt enkel voor authenticatie
+- ESP (Encapsulating Security Payload): zorgt voor authenticatie én encryptie
 
 ---
 
 ###IPSec-modes
-– Transport-mode:
+- Transport-mode:
     - enkel de payload (datagedeelte) v/e IP-pakket beveiligd
     - De IP-header (met o.a. source- en destination IP-adres) blijft onveranderd
-    - wordt typisch gebruikt bij end-to-end communicatie (bv client – server)
-– Tunnel-mode:
+    - wordt typisch gebruikt bij end-to-end communicatie (bv client - server)
+- Tunnel-mode:
     - het volledige IP-pakket (header én payload) wordt beveiligd en in een nieuw IP-pakket gestopt
     - de buitenste IP-header bevat IP-adressen van begin- en eindpunten van de “tunnel” (typisch: routers of firewalls)
     - Geen enkele router in de tunnel kan de binnenste IP-header “zien”
     - Wordt typisch gebruikt voor communicatie tussen 2 routers of 2 firewalls die zich aan de grenzen van een LAN bevinden
-	
+
 ---
-	
+
 ###VPN Tunneling protocollen
-– Het PPTP-protocol (Point-to-Point Tunneling Protocol): eenvoudig protocol dat gebruikmaakt van MPPE als encryptieprotocol (algortime = RC4) en GRE als tunnelingprotocol
-– Het L2TP-protocol (Layer 2 Tunneling Protocol): werkt met IPsec (algoritme is vaak AES); minder snel, maar veiliger dan PPTP
-– Het SSTP-protocol (Secure Socket Tunneling Protocol): een SSL VPN protocol; veiligste protocol; enkel beschikbaar in recente Windows-versies
+- Het PPTP-protocol (Point-to-Point Tunneling Protocol): eenvoudig protocol dat gebruikmaakt van MPPE als encryptieprotocol (algortime = RC4) en GRE als tunnelingprotocol
+- Het L2TP-protocol (Layer 2 Tunneling Protocol): werkt met IPsec (algoritme is vaak AES); minder snel, maar veiliger dan PPTP
+- Het SSTP-protocol (Secure Socket Tunneling Protocol): een SSL VPN protocol; veiligste protocol; enkel beschikbaar in recente Windows-versies
 
 ---
 
@@ -130,22 +132,22 @@ Andere beveiligingsaspecten:
 
 ###Firewall technieken
 - Packet filtering: toegang toelaten of verbieden op basis van IP-adressen of poortnummers (ACLs)
-– Application filtering: toegang toelaten of verbieden op basis van informatie in de applicatieheader: “deep packet inspection”
-– Stateful packet filtering: filtering gebeurt niet enkel op basis van statische regels, maar ook op basis van de verbindingsstatus = connection state, bijgehouden in een connection state table in de firewall
+- Application filtering: toegang toelaten of verbieden op basis van informatie in de applicatieheader: “deep packet inspection”
+- Stateful packet filtering: filtering gebeurt niet enkel op basis van statische regels, maar ook op basis van de verbindingsstatus = connection state, bijgehouden in een connection state table in de firewall
 
 ---
 
 ###Een hardware firewall heeft vaak 3 interfaces
-– WAN-interface (met publiek IP-adres)
-– LAN-interface (meestal privé IP-adres)
-– DMZ-interface (DMZ = DeMilitarized Zone = zone waar de publieke servers staan die bereikbaar moeten zijn vanaf het Internet
+- WAN-interface (met publiek IP-adres)
+- LAN-interface (meestal privé IP-adres)
+- DMZ-interface (DMZ = DeMilitarized Zone = zone waar de publieke servers staan die bereikbaar moeten zijn vanaf het Internet
 
 ---
 
 ###IDS kan op verschillende niveaus toegepast worden:
-– Op systeemniveau: IDS-sofware die op een server geïnstalleerd wordt
-– Op applicatieniveau: IDS-software die voor een specifieke applicatie geschreven is
-– Op netwerkniveau: sniffersoftware (genre Snort); vaak geïnstalleerd op een computer die op een monitoringpoort van een moderne switch wordt aangesloten (port mirroring/monitoring)
+- Op systeemniveau: IDS-sofware die op een server geïnstalleerd wordt
+- Op applicatieniveau: IDS-software die voor een specifieke applicatie geschreven is
+- Op netwerkniveau: sniffersoftware (genre Snort); vaak geïnstalleerd op een computer die op een monitoringpoort van een moderne switch wordt aangesloten (port mirroring/monitoring)
 
 ---
 
@@ -202,8 +204,8 @@ Andere beveiligingsaspecten:
     - NAS biedt file-level storage aan de andere toestellen in een netwerk aan
     - Netwerk filesharing protocollen:
         - NFS (Network File System) voor UNIX/Linux-machines
-        – SMB/CIFS (Server Message Block/Common Internet File  System) voor Windows-machines
-        – AFP (Apple Filing Protocol) voor Apple MAC’s
+        - SMB/CIFS (Server Message Block/Common Internet File  System) voor Windows-machines
+        - AFP (Apple Filing Protocol) voor Apple MAC’s
     - Op een NAS-device draait meestal een speciale (minimale) versie van een OS (vaak UNIX/Linux, maar bv ook  Windows Storage Server)
     - Een NAS-device wordt meestal over het netwerk beheerd via een browser (want geen toetsenbord en scherm)
     - Voordelen: schaalbaar, erg eenvoudig om bestanden te delen in gemengde omgevingen
@@ -212,8 +214,8 @@ Andere beveiligingsaspecten:
     - SAN = Storage Area Network = architectuur die dient om opslagapparaten (meestal schijfeenheden) aan meer dan één server te koppelen, maar dan wel op een zodanige manier dat het voor het besturingssysteem lijkt alsof het opslagapparaat rechtstreeks op een server is aangesloten
     - SAN biedt block-level storage
     - Een SAN voorziet meestal in een apart netwerk waarop opslagapparatuur en servers aangesloten worden
-	- Voordelen: zeer goede prestaties; consolidatie van opslag (migratie van DAS naar SAN); Schaalbaarheid; Centrale beheersbaarheid; Sterke vermindering TCO; Ideaal voor virtualisatie, server clustering en disaster recovery (zie verder);
-    - Nadelen: nogal duur in aankoop (laatste jaren wel al veel goedkoper geworden); minder eenvoudig te installeren; gelijktijdige toegang tot een LUN (Logical Unit Number) is – in tegenstelling tot bij NAS- standaard NIET mogelijk;
+    - Voordelen: zeer goede prestaties; consolidatie van opslag (migratie van DAS naar SAN); Schaalbaarheid; Centrale beheersbaarheid; Sterke vermindering TCO; Ideaal voor virtualisatie, server clustering en disaster recovery (zie verder);
+    - Nadelen: nogal duur in aankoop (laatste jaren wel al veel goedkoper geworden); minder eenvoudig te installeren; gelijktijdige toegang tot een LUN (Logical Unit Number) is - in tegenstelling tot bij NAS- standaard NIET mogelijk;
 
 ---
 
@@ -222,13 +224,13 @@ Andere beveiligingsaspecten:
     - Eén van de oudste en nog altijd veel gebruikte backupmedia
     - Uitstekende prijs/kwaliteitsverhouding
     - Belangrijke troef: kan gemakkelijk off site bewaard worden
-        – In brandkast
-        – Op een andere fysische locatie (al dan niet via een gespecialiseerde firma)
+        - In brandkast
+        - Op een andere fysische locatie (al dan niet via een gespecialiseerde firma)
     - Grootste nadeel: sequentieel toegankelijk medium -> grote restore time -> ideaal als archiveringsmiddel
     - Verschillende tapetechnologieën: DAT, DLT, AIT,LTO
     - Belangrijke parameters: capaciteit en transfer rate van de tapedrive
     - Apparatuur:
-        – Tape drive (tapestreamer) rechtstreeks verbonden met de te backuppen server
+        - Tape drive (tapestreamer) rechtstreeks verbonden met de te backuppen server
         - Tape robots (autoloaders): kunnen automatisch (onder commando van backupsoftware) verschillende servers backuppen; al of niet in een apart netwerk (SAN)
 - OPTISCHE SCHIJVEN
     - Backup en restore verloopt snel en gebruiksvriendelijk
@@ -248,20 +250,20 @@ Andere beveiligingsaspecten:
     - Bijkomend nadeel: afhankelijk van een third party
 
 ---
-	
+
 ###Hoe continuïteit waarborgen?
-– Redundantie: dubbele voeding, dubbele koeling, dubbele NIC’s, dubbele HD’s, dubbele airco’s,…
-– RAID
-– Clustering
-– Disaster Recovery en/of business continuity plan
-– Noodstroomvoeding
+- Redundantie: dubbele voeding, dubbele koeling, dubbele NIC’s, dubbele HD’s, dubbele airco’s,…
+- RAID
+- Clustering
+- Disaster Recovery en/of business continuity plan
+- Noodstroomvoeding
 
 ---
 
 ###RAID
-– RAID 1 = disk mirroring: min 2 disks nodig; bescherming tegen elke hard disk crash; dure oplossing
-– RAID 5 = disk striping with distributed parity: min 3 disks nodig; bescherming tegen 1 hard disk crash; meest gebruikt
-– RAID 6 = disk striping with dual parity: min 4 disks nodig; bescherming tegen 2 gelijktijdige hard disk crashs
+- RAID 1 = disk mirroring: min 2 disks nodig; bescherming tegen elke hard disk crash; dure oplossing
+- RAID 5 = disk striping with distributed parity: min 3 disks nodig; bescherming tegen 1 hard disk crash; meest gebruikt
+- RAID 6 = disk striping with dual parity: min 4 disks nodig; bescherming tegen 2 gelijktijdige hard disk crashs
 
 ---
 
@@ -269,9 +271,9 @@ Andere beveiligingsaspecten:
 - Een failover cluster (ook wel high availability (HA) cluster genoemd) bestaat uit 2 of meer met elkaar geconnecteerde servers (nodes genoemd) die zich als één logische server gedragen en samenwerken om de beschikbaarheid van services en applicaties op die servers te verhogen. 
 - Als één van de clusternodes faalt, wordt de service overgenomen door een andere node, waardoor de service beschikbaar blijft. De gebruiker zal dus geen (of nauwelijks) hinder merken.
 - Bij failover clustering maakt men meestal gebruik van 3 soorten netwerken (cfr volgende dia):
-    – Een publiek netwerk
-    – Een “heartbeat” privaat netwerk waarop de HA-servers  geconnecteerd zijn
-    – Een SAN voor de toegang tot de shared storage
+    - Een publiek netwerk
+    - Een “heartbeat” privaat netwerk waarop de HA-servers  geconnecteerd zijn
+    - Een SAN voor de toegang tot de shared storage
 - Failover clustering wordt vaak gebruikt voor database-applicaties, file sharing, e-commerce,…
 
 ---
