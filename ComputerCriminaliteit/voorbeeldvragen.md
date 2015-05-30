@@ -29,56 +29,55 @@ _De wet inzake informaticacriminaliteit werd ingevoerd._
 - _Specifieke ICT criminaliteit_
 
     - _Strafbare gedragingen die het ICT systeem of de opgeslagen data of_
-
     - _programmatuur als voorwerp hebben._
 
 
 - _De ICT is hier een noodzakelijk onderdeel van het misdrijf_
 
--         _ICT als informatieverspreidingsmiddel_
+- _ICT als informatieverspreidingsmiddel_
 
--         _ICT als direct communicatiemiddel_
+- _ICT als direct communicatiemiddel_
 
--         _ICT als middel voor plegen van klassieke misdrijven_
+- _ICT als middel voor plegen van klassieke misdrijven_
 
--         _ICT of Cyber crime_
+- _ICT of Cyber crime_
 
--         _ICT als bewijs (‘getuige’)_
+- _ICT als bewijs (â€˜getuigeâ€™)_
 
 ---
 
 **Waarom / waardoor is computercriminaliteit een probleem voor justitie en politie?**
 
 
-_voor het oplossen van misdrijven (o.m. identificatie van de daders) _
+_voor het oplossen van misdrijven (o.m. identificatie van de daders)_
 
--        _moet bewijsmateriaal opgespoord worden_
+- _moet bewijsmateriaal opgespoord worden_
 
--         _in een massa aan gegevens_
+- _in een massa aan gegevens_
 
--        _en moeten die gegevens zichtbaar en leesbaar gemaakt worden. _
+- _en moeten die gegevens zichtbaar en leesbaar gemaakt worden._
 
 _nieuwe criminaliteitsvormen moeten effectief bestreden worden, met respect voor de_
 
--         _rechten van de verdediging_
+- _rechten van de verdediging_
 
--        _rechten van het slachtoffer_
+- _rechten van het slachtoffer_
 
 ---
 
 -        **Hoe kan dit probleem o.m. opgelost worden?**
 
-_De oplossing voor het geschetste probleem kan gevonden worden _
+_De oplossing voor het geschetste probleem kan gevonden worden_
 
--         _in een aangepast wettelijk kader met aangepaste wettelijke procedures_
+- _in een aangepast wettelijk kader met aangepaste wettelijke procedures_
 
--        _door het voorhanden zijn van de nodige middelen_
+- _door het voorhanden zijn van de nodige middelen_
 
--   _personeel_
+- _personeel_
 
--   _onderzoekstools (hardware & software)_
+- _onderzoekstools (hardware & software)_
 
--        _in kennis en knowhow bij de onderzoekers._
+- _in kennis en knowhow bij de onderzoekers._
 
 ---
 
@@ -90,7 +89,7 @@ _Om machtsmisbruik te fnuiken wordt in een rechtsstaat het staatsgezag uitgeoefe
 
 ---
 
--        **Wie oefent in België die machten uit?**
+-        **Wie oefent in BelgiÃ« die machten uit?**
 
 _Wetgevende macht = koning + parlement_
 
@@ -106,7 +105,7 @@ _Objectiviteit, democratie, ze controleren & beperken elkaar._
 
 ---
 
--        **Hoe is België gestructureerd? **
+-        **Hoe is BelgiÃ« gestructureerd?**
 
 _Federale staat, gewesten, gemeenschappen_
 
@@ -117,9 +116,9 @@ _Federale staat, gewesten, gemeenschappen_
 ![](image001.jpg)
 
 ---
-#Justitie in België#
+#Justitie in BelgiÃ«#
 
-**Geef een overzicht van de gerechtelijke indeling van België wat betreft de Hoven en Rechtbanken.**
+**Geef een overzicht van de gerechtelijke indeling van BelgiÃ« wat betreft de Hoven en Rechtbanken.**
 
 ![](image002.jpg)
 
@@ -153,15 +152,15 @@ _Hof van Cassatie = spreekt zich uit over het recht, procedures, niet over een s
 
 **Wat is het "Openbaar Ministerie"?**
 
-_Het Openbaar Ministerie vertegenwoordigt de samenleving in de rechtbank. De magistraten die verbonden zijn aan een parket of aan een auditoraat vormen samen het Openbaar Ministerie. Zij vervolgen inbreuken op de strafwet . De voornaamste taken van het Openbaar Ministerie zijn:_
+_Het Openbaar Ministerie vertegenwoordigt de samenleving in de rechtbank. De magistraten die verbonden zijn aan een parket of aan een auditoraat vormen samen het Openbaar Ministerie. Zij vervolgen inbreuken op de strafwet. De voornaamste taken van het Openbaar Ministerie zijn:_
 
--        _het opsporen en vervolgen van misdrijven. De magistraten van het Openbaar Ministerie leiden het strafonderzoek, sporen de daders op en vorderen in de rechtbank een straf tegen de verdachten. Wanneer deze magistraten voor de rechtbanken een straf vragen, doen zij dit staand, daarom noemt men hen 'de staande magistratuur'. De rechters in de rechtbanken worden 'de zittende magistratuur' genoemd._
+- _het opsporen en vervolgen van misdrijven. De magistraten van het Openbaar Ministerie leiden het strafonderzoek, sporen de daders op en vorderen in de rechtbank een straf tegen de verdachten. Wanneer deze magistraten voor de rechtbanken een straf vragen, doen zij dit staand, daarom noemt men hen 'de staande magistratuur'. De rechters in de rechtbanken worden 'de zittende magistratuur' genoemd._
 
--        _advies verlenen in burgerlijke zaken. Ze helpen de rechters met advies over de toepassing van de wet op het voorgelegde geschil._
+- _advies verlenen in burgerlijke zaken. Ze helpen de rechters met advies over de toepassing van de wet op het voorgelegde geschil._
 
 ---
 
--        **Hoe is het georganiseerd in België, met welke bevoegdheden?**
+-        **Hoe is het georganiseerd in BelgiÃ«, met welke bevoegdheden?**
 
 _De procureur des Konings en zijn eerste substituten en substituten treden op als Openbaar Ministerie bij de rechtbank van eerste aanleg, de politierechtbank en de rechtbank van koophandel. Zij vormen samen het parket van de procureur des Konings._
 
@@ -195,7 +194,8 @@ _Hoofdstraffen worden afzonderlijk opgelegd, bijkomende straffen worden samen me
 
 ---
 
--        **Wat zijn de constitutieve bestanddelen van een misdrijf? **
+-        **Wat zijn de constitutieve bestanddelen van een misdrijf?**
+
 _materieel bestanddeel & moreel bestanddeel_
 
 ---
@@ -220,15 +220,15 @@ _Gebeurlijk opzet = de gevolgen zijn bekend, maar de dader had deze niet tot doe
 
 -        **Wat is volgens het Strafwetboek:**
 
-o   **een misdaad**
+-        **een misdaad**
 
 _criminele straffen_
 
-o   **een wanbedrijf**
+-        **een wanbedrijf**
 
 _correctionele straffen_
 
-o   **een overtreding?**
+-        **een overtreding?**
 
 _Politiestraffen_
 
@@ -250,7 +250,8 @@ _Schuld = de gevolgen van de gepleegde daad zijn niet gewild_
 
 ---
 
--        **Wat is poging tot misdaad of wanbedrijf? **
+-        **Wat is poging tot misdaad of wanbedrijf?**
+
 _voorbereiding alleen onvoldoende, moet de wil tonen, afwezigheid van vrijwillige verzaking_
 
 ---
@@ -268,7 +269,7 @@ _Klacht / aangifte, vooronderzoek / opsporingsonderzoek, onderzoek ten gronde (r
 
 ---
 
--        **Wat zijn tijdens een strafproces het opsporingsonderzoek en het gerechtelijk onderzoek? Wat zijn de verschillen? **
+-        **Wat zijn tijdens een strafproces het opsporingsonderzoek en het gerechtelijk onderzoek? Wat zijn de verschillen?**
 
 _Opsporingsonderzoek = gesloten vooronderzoek, onder leiding van procureur, zonder dat er dwangmaatregel nodig zijn_
 
@@ -278,7 +279,7 @@ _Gerechtelijk onderzoek = onder leiding van de onderzoeksrechter, dwangmaatregel
 
 -        **Welke voorwerpen kunnen tijdens een strafrechtelijk vooronderzoek worden in beslag genomen?**
 
-_het voorwerp van het misdrijf, __alles wat gediend heeft (of had moeten dienen) voor het plegen van het misdrijf (bv. Een computer, een wapen), zaken die uit het misdrijf voorkomen (bv. Vals geld), primaire en secundaire vermogensvoordelen_
+_het voorwerp van het misdrijf, alles wat gediend heeft (of had moeten dienen) voor het plegen van het misdrijf (bv. Een computer, een wapen), zaken die uit het misdrijf voorkomen (bv. Vals geld), primaire en secundaire vermogensvoordelen_
 
 ---
 
@@ -294,14 +295,15 @@ _Het IP of e-mailadres van de fraudeur identificeren. De procureur moet dit vord
 
 ---
 
--        **Hoe kan een profiel op/van een sociale netwerksite in een strafrechtelijk vooronderzoek "geïdentificeerd" worden? Wie kan dit vragen? Op grond van welke wettelijke basis?   **
-_Het profiel kan geïdentificeerd worden door gegevens van de sociale netwerksite (elektronische communicatie dienst) dmv artikel 46bis. Dit dient gevraagd te worden door de procureur des konings of OR._
+-        **Hoe kan een profiel op/van een sociale netwerksite in een strafrechtelijk vooronderzoek "geÃ¯dentificeerd" worden? Wie kan dit vragen? Op grond van welke wettelijke basis?**
+
+_Het profiel kan geÃ¯dentificeerd worden door gegevens van de sociale netwerksite (elektronische communicatie dienst) dmv artikel 46bis. Dit dient gevraagd te worden door de procureur des konings of OR._
 
 ---
 
--        **Hoe kan in een strafrechtelijk vooronderzoek een IP-adres "geïdentificeerd" worden? Wie kan dit vragen? Op grond van welke wettelijke basis?**
+-        **Hoe kan in een strafrechtelijk vooronderzoek een IP-adres "geÃ¯dentificeerd" worden? Wie kan dit vragen? Op grond van welke wettelijke basis?**
 
-_Het IP adres kan geïdentificeerd worden door de gegevens van de ISP door de PK of onderzoeksrechter dmv artikel 46bis._
+_Het IP adres kan geÃ¯dentificeerd worden door de gegevens van de ISP door de PK of onderzoeksrechter dmv artikel 46bis._
 
 ---
 
@@ -313,7 +315,7 @@ _Hij dient zijn abonnementsgegevens van de gebruiker vrij te geven, anders riske
 
 -         **In een e-mailbericht wordt een ernstige bedreiging (= misdrijf) geuit aan de ontvanger van het bericht. Hoe en waar kan de ontvanger van het bericht  (= slachtoffer) klacht indienen. Hoe verloopt het strafrechtelijk vooronderzoek?**
 
-_Bij de politie. De gebruiker (IP-adres) van het e-mailadres zal geïdentificeerd worden (art 88bis), de abonnementsgegevens van de gebruiker van het IP-adres worden opgevraagd (art 46bis)_
+_Bij de politie. De gebruiker (IP-adres) van het e-mailadres zal geÃ¯dentificeerd worden (art 88bis), de abonnementsgegevens van de gebruiker van het IP-adres worden opgevraagd (art 46bis)_
 
 ---
 
@@ -341,7 +343,7 @@ _In beslagname, verantwoordelijke op de hoogte stellen (88ter)_
 
 ---
 
--         **Op bevel van een onderzoeksrechter wordt er een zoeking uitgevoerd in een informaticasysteem van de hoofdzetel van het  bedrijf AZERTY in Brugge.  Tijdens die zoeking wordt vastgesteld dat er cruciale gegevens (= bewijs voor het strafrechtelijk vooronderzoek) aanwezig zijn op een informaticasysteem van de productieafdeling van  het bedrijf AZERTY te Sluis (Nederland).  Welke onderzoekshandelingen kan de onderzoeksrechter (laten) stellen? Onder welke voorwaarden?  **
+-         **Op bevel van een onderzoeksrechter wordt er een zoeking uitgevoerd in een informaticasysteem van de hoofdzetel van het  bedrijf AZERTY in Brugge.  Tijdens die zoeking wordt vastgesteld dat er cruciale gegevens (= bewijs voor het strafrechtelijk vooronderzoek) aanwezig zijn op een informaticasysteem van de productieafdeling van  het bedrijf AZERTY te Sluis (Nederland).  Welke onderzoekshandelingen kan de onderzoeksrechter (laten) stellen? Onder welke voorwaarden?**
 
 _Enkel kopieren, niet wissen of blokkeren, vreemde staat (Nederland) op de hoogte stellen. (88ter)_
 
@@ -353,25 +355,25 @@ _Ja, 88quarter, medewerkingsplicht_
 
 ---
 
--         **Tijdens een strafrechtelijk vooronderzoek worden in bestanden op een informaticasysteem gegevens aangetroffen die duidelijk een bewijs vormen in het onderzoek.  De bestanden kunnen evenwel niet gekopieerd worden. Welke juridisch-procedurele handelingen kunnen er gesteld worden? **
+-         **Tijdens een strafrechtelijk vooronderzoek worden in bestanden op een informaticasysteem gegevens aangetroffen die duidelijk een bewijs vormen in het onderzoek.  De bestanden kunnen evenwel niet gekopieerd worden. Welke juridisch-procedurele handelingen kunnen er gesteld worden?**
 
 _De toegang tot de gegevens blokkeren en zorgen dat ze niet gewijzigd kunnen worden 39bis._
 
 ---
 
--        **Tijdens een strafrechtelijk vooronderzoek worden in één directory op een server van een bedrijf bestanden aangetroffen die een onweerlegbaar bewijs vormen in het strafonderzoek.  Welke juridisch-procedurele handelingen kunnen er gesteld worden?  Op grond van welke wettelijke basis?**
+-        **Tijdens een strafrechtelijk vooronderzoek worden in Ã©Ã©n directory op een server van een bedrijf bestanden aangetroffen die een onweerlegbaar bewijs vormen in het strafonderzoek.  Welke juridisch-procedurele handelingen kunnen er gesteld worden?  Op grond van welke wettelijke basis?**
 
 _Kopieren van de directory / specifieke gegevens 39bis_.
 
 ---
 
--         **Tijdens een strafrechtelijk vooronderzoek worden op 5 USB-sticks, voor het onderzoek nuttige, gegevens aangetroffen.   Hoe worden die materiële gegevensdragers juridisch-procedureel behandeld? Op grond van welke wettelijke basis?**
+-         **Tijdens een strafrechtelijk vooronderzoek worden op 5 USB-sticks, voor het onderzoek nuttige, gegevens aangetroffen.   Hoe worden die materiÃ«le gegevensdragers juridisch-procedureel behandeld? Op grond van welke wettelijke basis?**
 
 _Ze worden in beslag genomen artikel 35._
 
 ---
 
--         **Tijdens een strafrechtelijk vooronderzoek worden op een server van een bedrijf in een 1000-tal bestanden aangetroffen die duidelijk kinderpornografie bevatten. Welke juridisch-procedurele handelingen kunnen er gesteld worden?  Op grond van welke wettelijke basis? **
+-         **Tijdens een strafrechtelijk vooronderzoek worden op een server van een bedrijf in een 1000-tal bestanden aangetroffen die duidelijk kinderpornografie bevatten. Welke juridisch-procedurele handelingen kunnen er gesteld worden?  Op grond van welke wettelijke basis?**
 
 _Gegevens worden gekopieerd & verwijdert, artikel 39bis_
 
@@ -409,9 +411,9 @@ _Vooral informatie uitwisselen zodat internationale misdaad beter bestreden kan 
 
 ---
 
-#Politiediensten in belgië#
+#Politiediensten in belgiÃ«#
 
-**Hoe zijn de politiediensten in België gestructureerd. Licht kort toe.**
+**Hoe zijn de politiediensten in BelgiÃ« gestructureerd. Licht kort toe.**
 
 _Lokale politie in 196 politiezones, federale politie (grensoverschrijdende criminaliteit)_
 
@@ -419,7 +421,7 @@ _Lokale politie in 196 politiezones, federale politie (grensoverschrijdende crim
 
 **Welke politiediensten zijn gespecialiseerd in het onderzoek van computers, informaticasystemen en telecommunicatiesysteem? Licht hun werking toe.**
 
-_FCCU & RCCU, RCCU regionaal, helpt de lokale politie bij onderzoek. FCCU meer globaal, opleiding, informatieverzamelen, methodes & standaarden vastleggen, ondersteund RCCU’s, ecops (internetopsporingen)._
+_FCCU & RCCU, RCCU regionaal, helpt de lokale politie bij onderzoek. FCCU meer globaal, opleiding, informatieverzamelen, methodes & standaarden vastleggen, ondersteund RCCUâ€™s, ecops (internetopsporingen)._
 
 ---
 
@@ -439,7 +441,7 @@ _Verandering van de juridische draagwijdte van gegevens die worden opgeslagen, v
 
 ---
 
-**Voor het misdrijf 'valsheid in informatica' (artikel 210 bis §1 Strafwetboek - 'Wet inzake Informaticacriminaliteit - 28/11/2000) wordt bijzonder opzet vereist. Wat moet daaronder worden verstaan?**
+**Voor het misdrijf 'valsheid in informatica' (artikel 210 bis Â§1 Strafwetboek - 'Wet inzake Informaticacriminaliteit - 28/11/2000) wordt bijzonder opzet vereist. Wat moet daaronder worden verstaan?**
 
 _Met kwaad opzet, oogmerk om te schaden._
 
@@ -449,7 +451,7 @@ _Met kwaad opzet, oogmerk om te schaden._
 
 _Materieel = Voor zichzelf of voor een ander een onrechtmatig economisch voordeel beogen te verwerven door gegevens die worden opgeslagen, verwerkt of overgedragen door middel van een informaticasysteem, in een informaticasysteem in te voeren, te wijzigen, te wissen of met enig ander technologisch middel de normale aanwending van gegevens in een informaticasysteem te veranderen_
 
-Moreel = Bedrieglijk opzet: het oogmerk om voor zichzelf of voor een ander een onrechtmatig economisch voordeel te verwerven
+_Moreel = Bedrieglijk opzet: het oogmerk om voor zichzelf of voor een ander een onrechtmatig economisch voordeel te verwerven_
 
 ---
 
@@ -459,17 +461,17 @@ _Interne hacking = je toegangsniveau overschrijden (je had al rechtmatige toegan
 
 ---
 
-**Een vorm van skimming is het kopiëren van gegevens opgeslagen op een  betaal- of kredietkaart van een slachtoffer en tegelijkertijd ook de ingebrachte PIN-code registreren.**
+**Een vorm van skimming is het kopiÃ«ren van gegevens opgeslagen op een  betaal- of kredietkaart van een slachtoffer en tegelijkertijd ook de ingebrachte PIN-code registreren.**
 
 **Nadien worden de gekopieerde kaartgegevens weggeschreven op een zogenaamde 'blanco'**
 
-**kaart.  Met die laatste kaart en de voorhanden PIN-code wordt dan de rekening van het**
+**kaart. Met die laatste kaart en de voorhanden PIN-code wordt dan de rekening van het**
 
-**slachtoffer gepluimd. **
+**slachtoffer gepluimd.**
 
 **Geef aan voor de volgende 3 stappen uit het verloop van dit misbruik, namelijk:**
 
-* **het kopiëren van de, op de kaart van het slachtoffer, opgeslagen gegevens**
+* **het kopiÃ«ren van de, op de kaart van het slachtoffer, opgeslagen gegevens**
 
 _Valsheid in informatica, 280bis_
 
@@ -493,20 +495,20 @@ _In beginsel wordt e-mailverkeer beschermd door de wet van 13 juni 2005 op de el
 
 _Artikel 124 van die wet stelt verbodsbepalingen in, met name het verbod om:_
 
--         _kennis te nemen van het bestaan van informatie van alle aard die via elektronische weg is verstuurd en die niet persoonlijk voor 'hem' bestemd is ;_
+- _kennis te nemen van het bestaan van informatie van alle aard die via elektronische weg is verstuurd en die niet persoonlijk voor 'hem' bestemd is ;_
 
--         _de personen te identificeren die bij de overzending van de informatie en de inhoud ervan betrokken zijn ;_
+- _de personen te identificeren die bij de overzending van de informatie en de inhoud ervan betrokken zijn ;_
 
--         _kennis te nemen van gegevens inzake elektronische communicatie en met betrekking tot een andere persoon ;_
+- _kennis te nemen van gegevens inzake elektronische communicatie en met betrekking tot een andere persoon ;_
 
--         _informatie, identificatie of gegevens die met of zonder opzet werden verkregen, te wijzigen, te schrappen, kenbaar te maken, op te slaan of er enig gebruik van te maken._
+- _informatie, identificatie of gegevens die met of zonder opzet werden verkregen, te wijzigen, te schrappen, kenbaar te maken, op te slaan of er enig gebruik van te maken._
 
 ---
 #Kinderpornografie#
 
 **Een persoon ontving ongewild een e-mail met 10 foto's in bijlage.  De foto's betreffen duidelijk kinderpornografie.  De ontvanger van het bericht doet van het feit aangifte bij de politie. Licht toe hoe het strafrechtelijk vooronderzoek verder kan verlopen; dit op grond van welke wettelijk basis en van welke technische gegevens.**
 
-_De foto’s/e-mail worden gekopieerd & gewist (383bis) (39bis). Het IP-adres dat bij het e-mailadres hoort wordt opgevraagd (88bis). Op basis van het IP adres worden de identiteitsgegevens opgevraagd bij de ISP (46bis)._
+_De fotoâ€™s/e-mail worden gekopieerd & gewist (383bis) (39bis). Het IP-adres dat bij het e-mailadres hoort wordt opgevraagd (88bis). Op basis van het IP adres worden de identiteitsgegevens opgevraagd bij de ISP (46bis)._
 
 ---
 
@@ -524,7 +526,7 @@ _De persoon moet zelf een klacht indienen zodat het onderzoek gestart kan worden
 
 -        **het begrip 'bedrog gepleegd met behulp van informatica' of 'bedrog op het internet' en **
 
-_één of meerdere misdrijven omvat waarvan er minstens één verband houdt met het gebruik van informatica als communicatiemiddel._
+_Ã©Ã©n of meerdere misdrijven omvat waarvan er minstens Ã©Ã©n verband houdt met het gebruik van informatica als communicatiemiddel._
 
 ---
 
