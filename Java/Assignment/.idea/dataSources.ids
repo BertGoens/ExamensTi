@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - java@localhost" uuid="e30b2eeb-51eb-477c-8e17-ab227f5e791a">
+    <database-info product="MySQL" version="5.6.21" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower"/>
+    <schema name="" catalog="java"/>
+    <table name="category" schema="" catalog="java" type="TABLE">
+      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="name" sqlType="VARCHAR" precision="60" scale="0" nullable="false" jdbcType="12"/>
+      <primary-key name="PRIMARY" columns="id"/>
+      <exported-key name="product_ibfk_1" table="product" schema="" catalog="java" columns="category_id"/>
+    </table>
+    <table name="product" schema="" catalog="java" type="TABLE">
+      <column name="id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4" autoIncrement="true"/>
+      <column name="productName" sqlType="VARCHAR" precision="60" scale="0" nullable="false" jdbcType="12"/>
+      <column name="category_id" sqlType="INT" precision="10" scale="0" nullable="false" jdbcType="4"/>
+      <primary-key name="PRIMARY" columns="id"/>
+      <foreign-key name="product_ibfk_1" columns="category_id" ref-table="category" ref-schema="" ref-catalog="java" ref-columns="id" update-rule="0" delete-rule="3" deferrability="2"/>
+    </table>
+  </data-source>
+</component>
