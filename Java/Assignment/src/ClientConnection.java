@@ -19,6 +19,7 @@ public class ClientConnection implements Runnable {
         this.socket = socket;
         this.server = server;
         try {
+
             outputStream = new ObjectOutputStream(socket.getOutputStream());
             outputStream.flush();
             inputStream = new ObjectInputStream(socket.getInputStream());
@@ -36,8 +37,8 @@ public class ClientConnection implements Runnable {
             Object msg;
             while((msg = inputStream.readObject()) != null)
             {
-                MessageToServer messageToServer = (MessageToServer) msg;
-                processCommand(messageToServer);
+                CommandToServer commandToServer = (CommandToServer) msg;
+                processCommand(commandToServer);
             }
         }
         catch (IOException | ClassNotFoundException e)
@@ -46,19 +47,12 @@ public class ClientConnection implements Runnable {
         }
     }
 
-    private void processCommand(MessageToServer cmd)
+    private void processCommand(CommandToServer cmd)
     {
-        if(cmd.getMessage().equals("ONLINE"))
-        {
-            server.putOnline(socket.getInetAddress(), cmd.getUsername());
-        }
-        else if(cmd.getMessage().equals("GETONLINEUSERS"))
-        {
-            sendToClient(new MessageToClient(server.getOnlineUsers()));
-        }
+        cmd.performOnServer(server, this);
     }
 
-    private void sendToClient(MessageToClient cmd) {
+    public void sendToClient(CommandToClient cmd) {
         try {
             outputStream.writeObject(cmd);
         }

@@ -38,7 +38,7 @@ public class UsersClient implements Runnable {
             while(!interrupted())
             {
                 CommandToClient commandToClient = (CommandToClient) inputStream.readObject();
-                commandToClient.getUsernames().forEach(System.out::println);
+                commandToClient.performOnClient(this);
             }
         }
         catch (IOException | ClassNotFoundException e)
@@ -51,7 +51,7 @@ public class UsersClient implements Runnable {
     public void putOnline(String name)
     {
         try {
-            outputStream.writeObject(new MessageToServer(name, "ONLINE"));
+            outputStream.writeObject(new ChangeUsernameToServer(name));
             outputStream.flush();
             getOnlineUsers();
         }
@@ -64,7 +64,7 @@ public class UsersClient implements Runnable {
     public void getOnlineUsers()
     {
         try {
-            outputStream.writeObject(new MessageToServer(username, "GETONLINEUSERS"));
+            outputStream.writeObject(new GetUsersToServer());
             outputStream.flush();
         }
         catch (IOException e)

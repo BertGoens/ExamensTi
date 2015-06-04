@@ -13,7 +13,7 @@ public class MessageToClient implements CommandToClient, Serializable {
     }
 
     @Override
-    public List<String> getUsernames() {
-        return usernames;
+    public void performOnClient(UsersClient client) {
+        usernames.forEach(System.out::println);
     }
 }

@@ -16,7 +16,7 @@ public class UsersServer {
 
     private ServerSocket serverSocket;
     private HashMap<ClientConnection, InetAddress> connections;
-    private HashMap<InetAddress, String> users;
+    private HashMap<ClientConnection, String> users;
 
     public static void main(String[] args) {
         UsersServer s = new UsersServer();
@@ -32,7 +32,7 @@ public class UsersServer {
         try {
             serverSocket = new ServerSocket(9000);
             connections = new HashMap<ClientConnection, InetAddress>();
-            users = new HashMap<InetAddress, String>();
+            users = new HashMap<ClientConnection, String>();
             while(true)
             {
                 Socket userSocket = serverSocket.accept();
@@ -48,15 +48,15 @@ public class UsersServer {
 
     }
 
-    public void putOnline(InetAddress ip, String name)
+    public synchronized void putOnline(ClientConnection connection, String name)
     {
-        if(!users.containsKey(ip))
-            users.put(ip, name);
+        if(!users.containsKey(connection))
+            users.put(connection, name);
         else
-            users.replace(ip, name);
+            users.replace(connection, name);
     }
 
-    public List<String> getOnlineUsers()
+    public synchronized List<String> getOnlineUsers()
     {
         return Collections.unmodifiableList(new ArrayList<String>(users.values()));
     }

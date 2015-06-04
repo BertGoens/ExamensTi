@@ -1,8 +1,8 @@
-import java.util.List;
+import java.io.Serializable;
 
 /**
  * Created by Tim on 4/06/2015.
  */
-public interface CommandToClient {
-    public List<String> getUsernames();
+public interface CommandToClient extends Serializable {
+    void performOnClient(UsersClient client);
 }
